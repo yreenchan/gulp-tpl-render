@@ -1,0 +1,19 @@
+{
+  "name": "gulp-tpl-engine",
+  "version": "0.0.1",
+  "description": "A html template engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "gulp",
+    "tpl"
+  ],
+  "author": "YreenChan",
+  "git": "https://github.com/yreenchan/gulp-tpl-render.git",
+  "license": "MIT",
+  "dependencies": {
+    "through2": "^2.0.1"
+  }
+}
